@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+Dockerfile
+.gitignore
+.dockerignore
+temp.py
+chatbot.py
+model_train.py
